@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Iman! 👋
 
-<!--
-**Iman-Ali5/Iman-Ali5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cyber Security and Digital Forensics Graduate (BSc)
 
-Here are some ideas to get you started:
+## I'm a recent Cyber Security graduate with an interest in cybersecurity, digital forensics, security operations and incident response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm passionate about developing my technical knowledge, exploring cybersecurity tools and gaining practical experience through hands on projects and independent learning.
+
+## Education
+
+- BSc Cyber Security and Digital Forensics
+- Kingston University
+
+## Areas of interest 
+-Cybersecurity
+-Security Operations
+-Digital Forensics
+-Network Security
+-Cloud Security
+-Threat Intelligence
+-Incident Response
+
+Vulnerability Management
+
+Security Consulting
