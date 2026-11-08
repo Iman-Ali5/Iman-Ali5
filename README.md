@@ -1,25 +1,24 @@
 # Hi, I'm Iman! 👋
 
-## Cyber Security and Digital Forensics Graduate (BSc)
+Cyber Security and Digital Forensics Graduate (BSc)
 
-## I'm a recent Cyber Security graduate with an interest in cybersecurity, digital forensics, security operations and incident response.
+I'm a recent Cyber Security graduate with an interest in cybersecurity, digital forensics, security operations and incident response.
 
-## I'm passionate about developing my technical knowledge, exploring cybersecurity tools and gaining practical experience through hands on projects and independent learning.
+I'm passionate about developing my technical knowledge and gaining practical experience.
 
-## Education
+##  Education
 
 - BSc Cyber Security and Digital Forensics
 - Kingston University
 
-## Areas of interest 
--Cybersecurity
--Security Operations
--Digital Forensics
--Network Security
--Cloud Security
--Threat Intelligence
--Incident Response
+##  Areas of Interest
 
-Vulnerability Management
-
-Security Consulting
+- Cybersecurity
+- Security Operations
+- Digital Forensics
+- Network Security
+- Cloud Security
+- Threat Intelligence
+- Incident Response
+- Vulnerability Management
+- Security Consulting
